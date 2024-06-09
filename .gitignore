@@ -1,0 +1,5 @@
+# pycharm settings
+**/.idea
+
+# python execution cache
+**/__pycache__
